@@ -25,7 +25,7 @@ async function quantidadeDeUsuarios(){
             text: 'Redes sociais com mais usuários no mundo',
             x: 0,
             font:{
-                color: getCSS('--corlor-primaria'),
+                color: getCSS('--color-primaria'),
                 family: getCSS('--fonte'),
                 size: 30
             }
